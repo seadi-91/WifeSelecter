@@ -1,0 +1,47 @@
+form{
+    text-align: center;
+    margin: auto;
+    border: 2px solid black;
+    max-width: 380px;
+    background-color: aquamarine;
+    box-shadow: 4px 5px 15px black;
+    padding: 0 0 40px 0;
+   
+}
+#wife{
+    font-size:30px;
+    color: blueviolet;
+    text-decoration: underline;
+    text-shadow: 4px 2px 2px black;
+    
+}
+label{
+    font-weight: bold;
+    font-size: 15px;
+    color: blueviolet;
+}
+#numofwife{
+    padding: 5px;
+    width: 20%;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 7px;
+    margin: 3px;   
+}
+#photo{
+    cursor: pointer;
+    background-color: rgba(137, 43, 226, 0.731);
+    border-radius: 5px;
+    border: none;
+    padding: 8px;
+}
+#photo:hover{
+    background-color: rgb(137, 43, 226);
+}
+#result{
+    margin: 25px;
+}
+#images{
+    width: 150px;
+    margin: 5px;
+}
